@@ -121,5 +121,30 @@ The features with some of the biggest impact on our model are 'Overtime', 'Age',
 Most employees who leave the company seem to be younger employees. Based on [this](https://www.gallup.com/workplace/610856/new-challenge-engaging-younger-workers.aspx) article from Gallup this is a growing trend.  According to that article, Millenials and Gen Z are having a hard time staying engaged at work.  These feelings are accompanied with burnout, feeling overworked, less work-life balance, and not feeling fairly compensated.  All of this is evident in our data as well.  
   
 
-This company needs to consider which direction they want to go.  If they want to stay current with tech trends and attract the top talent, they will need to appeal to a younger demographic.  This includes increasing wages for younger employees and improving work life balance via hybrid or remote work schedules.  There are countless instances of wages being in the forefront of news currently.  We are seeing minimum wage increases in DC, Washington, New York, and California.  Further, wages are increasing as fast as they ever have in US [history](https://apnews.com/article/business-wages-salaries-increase-8ce98ea3bcc14c4810eb5a1111e1df49).   
+This company needs to consider which direction they want to go.  If they want to stay current with tech trends and attract the top talent, they will need to appeal to a younger demographic.  This includes increasing wages for younger employees and improving work life balance via hybrid or remote work schedules.  There are countless instances of wages being in the forefront of news currently.  We are seeing minimum wage increases in DC, Washington, New York, and California.  Further, wages are increasing as fast as they ever have in US [history](https://apnews.com/article/business-wages-salaries-increase-8ce98ea3bcc14c4810eb5a1111e1df49).     
+
+## Repository Structure
+
+- Repository/
+  - Notebooks/
+    - Dataset_Exploration.ipynb
+    - HR_Project_Proposal.ipynb
+  - images/
+    - age_count.png
+    - department_terminated.png
+    - feature_importances.png
+    - final_conclusion_matrix.png
+    - gender_terminated.png
+    - job_role.png
+    - monthly_income.png
+  - PDF/
+    - final_notebook.pdf
+    - presentation.pdf
+    - github.pdf
+    - README.pdf
+  - .gitignore
+  - final_notebook.ipynb
+  - README.md
+  - hr_data.csv
+
     
